@@ -1,0 +1,6 @@
+[submodule "JointBERT"]
+	path = JointBERT
+	url = https://github.com/monologg/JointBERT.git
+[submodule "Toxic_comment_data"]
+	path = Toxic_comment_data
+	url = https://github.com/songys/Toxic_comment_data.git
